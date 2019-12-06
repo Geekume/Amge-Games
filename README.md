@@ -7,7 +7,7 @@ pit and sound speaker beep implementation
 
 A game prototype is included
 
-
+press enter to initialize it
 
 to control the game the arrow keys are used to move around 
 - button 7 is for punch 
