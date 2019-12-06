@@ -5,5 +5,5 @@ Writen in C++
 Vga 320x200 256 color
 pit and sound speaker beep implementation
 
-A game proto type is included
+A game prototype is included
 
